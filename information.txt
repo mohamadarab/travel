@@ -1,0 +1,31 @@
+/*http://drupalthemes.ir*/
+
+
+# Database Configuration :
+
+
+'database' => 'travel',
+	
+'username' => 'travel',
+
+'password' => 'travel',
+
+
+
+ 
+ ---------------------
+
+# User Information :
+
+
+username : admin
+	
+password : admin
+	
+	
+
+----------------------	
+
+email : m.arabshahi@aol.com
+
+tel   : 09384363798
