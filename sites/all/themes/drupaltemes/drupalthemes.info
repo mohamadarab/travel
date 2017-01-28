@@ -1,0 +1,45 @@
+name = Drupalthemes
+description = drupalthemes - Responsive Bootstrap OnePage Drupal Theme (tel:09384363798)
+core = 7.x
+version = 1.1
+
+
+regions[menu] = Menu
+regions[content] = Content
+regions[highlighted] = Highlighted
+regions[slideshow] = Slideshow
+regions[top_tour] = Top_Tour
+regions[recent_tour] = Recent_Tour
+regions[article_tour] = Article_Tour
+regions[tour] = Tour
+
+
+
+
+
+
+stylesheets[all][] = css/bootstrap.min.css
+stylesheets[all][] = css/bootstrap-datetimepicker.min.css
+
+stylesheets[all][] = css/font-awesome.min.css
+stylesheets[all][] = css/style.css
+
+
+
+
+
+
+
+
+scripts[] = 'js/bootstrap.min.js'
+scripts[] = 'js/bootstrap-datetimepicker.min.js'
+
+
+
+
+
+
+; Information added by drupalthemes.ir packaging script on 2016-06-12
+version = "7.53"
+project = "drupal"
+datestamp = "09384363798"
